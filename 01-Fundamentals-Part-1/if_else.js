@@ -17,6 +17,7 @@ if(birthYears <= 2000) {
 console.log(century)
 
 
+let averagePopulation;
 if(country >= averagePopulation) {
     console.log(`${country} is above average.`);
 } else {
